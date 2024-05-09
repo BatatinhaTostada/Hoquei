@@ -1,0 +1,90 @@
+body{
+    background-image: url(img/GER_ARG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.batata{
+    background-color: rgba(0, 0, 0, 0.582);
+    padding: 15px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bolo{
+    background-color: rgba(0, 0, 0, 0.877);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 15px;
+    color: white;
+}
+.cereja{
+    background-color: deepskyblue;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+    cursor: pointer;
+}
+.cereja:hover{
+    background-color: rgb(9, 85, 199);
+    cursor: pointer;
+}
+input{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+.macaco{
+    background-color: gold;
+    border: none;
+    padding: 15px;
+    color: white;
+    position: absolute;
+    top: 5%;
+    left: 83%;
+    position: absolute;
+    border-radius: 4px;
+    color: black;
+    cursor: pointer;
+}
+.macaco:hover{
+    background-color: goldenrod;
+    color: white;
+    cursor: pointer;
+}
+.roxo{
+    color: greenyellow;
+    border: none;
+    background-color: rgba(134, 134, 134, 0);
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 6%;
+    left: 15.5%;
+    position: absolute;
+    cursor: pointer;
+}
+.roxo:hover{
+    color: white;
+}
+.Classe1 {
+    margin-right: 10px;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+}
+.Classe3 {
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: greenyellow;
+}   
+.pag{
+    background-color: rgba(0, 0, 0, 0.664);
+    padding: 35px;
+    color: aqua;
+    display: flex;
+}

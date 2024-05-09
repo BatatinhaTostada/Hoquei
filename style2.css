@@ -1,0 +1,65 @@
+body{
+          
+    background-image: url(img/hoquei-sobre-grama-vms-_istock_getty_images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .Classe1 {
+     margin-right: 10px;
+     font-size: 35px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: aliceblue;
+ }
+ .Classe3 {
+     font-size: 35px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     color: greenyellow;
+ }   
+ .pag{
+     background-color: rgba(0, 0, 0, 0.664);
+     padding: 35px;
+     color: aqua;
+     display: flex;
+     
+ }
+ .texto{
+     position: absolute;
+     top: 60%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+     color: white;
+     background-color: rgba(0, 0, 0, 0.459);
+     padding: 15px;
+     border-radius: 15px;
+ }
+
+ 
+ .botao{
+     background-color: gold;
+ border: none;
+ padding: 15px;
+ color: white;
+ position: absolute;
+ top: 5%;
+ left: 83%;
+ position: absolute;
+ border-radius: 4px;
+ color: black;
+ }
+ .botao:hover{
+     background-color: goldenrod;
+     color: white;
+ }
+
+  
+  .texto2{
+     top: 72.9%;
+     left: 50%;
+     position: absolute;
+     transform: translate(-50%,-50%);
+     color: white;
+     background-color:  rgba(0, 0, 0, 0.459);
+     padding: 15px;
+     border-radius: 15px;
+  }
+  
